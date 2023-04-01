@@ -1,4 +1,4 @@
-[![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
+![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 <h1 align="center">Hi 👋, I'm Md Ronnie</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
  <img align ="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" />
